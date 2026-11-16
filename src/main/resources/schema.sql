@@ -8,7 +8,7 @@ CREATE DATABASE IF NOT EXISTS lab3demomcp
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE demomcp;
+USE lab3demomcp;
 
 CREATE TABLE IF NOT EXISTS tarea (
                                      id         BIGINT        NOT NULL AUTO_INCREMENT,
